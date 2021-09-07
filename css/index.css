@@ -1,0 +1,66 @@
+body {
+    background-color: #E9DACB;
+}
+.heroImage {
+    height: 550px;
+    background-image: url(../images/HeroImage1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.customNav {
+    background-color: #E9DACB !important;
+}
+.nav-link {
+    color: #781A27 !important;
+}
+.title {
+    color: #781A27;
+    text-align: center;
+    font-size: 75px;
+
+}
+.lead {
+    color: #781A27;
+    text-align: center;
+    padding-bottom: 350px;
+    font-style: italic;
+}
+.info {
+    color: #781A27;
+}
+.ourConcept {
+    margin-left: 75px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.newFlavors {
+    margin-left: 105px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+.description {
+    margin-left: 175px;
+    margin-right: 175px;
+}
+.appInfo {
+    padding-top: 50px;
+}
+.btn-primary {
+    color: white;
+    background-color: #781A27;
+    outline: #781A27;
+}
+.content {
+    padding-bottom: 50px;
+}
+.appDownload {
+    padding-top: 50px;
+    margin-left: 900px;
+}
+.downloadLink {
+    color: #781A27;
+}
